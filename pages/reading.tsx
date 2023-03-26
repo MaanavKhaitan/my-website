@@ -32,6 +32,8 @@ export default function Reading() {
   <li className="ml-8 font-serif text-black mt-2"><i>Doglapan</i> - Ashneer Grover</li>
   <li className="ml-8 font-serif text-black mt-2"><i>Structure and Interpretation of Computer Programs</i> - Harold Abelson et al.</li>
   <li className="ml-8 font-serif text-black mt-2"><i>Things Fall Apart</i> - Chinua Achebe</li>
+  <li className="ml-8 font-serif text-black mt-2"><i>Human Interface Guidelines</i> - Apple</li>
+  <li className="ml-8 font-serif text-black mt-2"><i>The Alchemist</i> - Paulo Coelho</li>
   <li className="ml-8 font-serif text-black mt-2"><i>The Big Short</i> - Michael Lewis</li>
   <li className="ml-8 font-serif text-black mt-2"><i>Tamas</i> - Bhisham Sahni</li>
   <li className="ml-8 font-serif text-black mt-2"><i>Freakonomics</i> - Steven D. Levitt and Stephen J. Dubner</li>
