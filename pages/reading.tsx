@@ -21,7 +21,7 @@ export default function Home() {
         <div>
         <h2 className="text-5xl text-start font-serif">My Reading List</h2>
         <h2 className="text-md text-start font-serif mt-4">reading is fun, but gotta keep myself accountable</h2>
-        <h2 className="text-xl mt-8 text-start font-serif text-zinc-500">what I'm reading now:</h2>
+        <h2 className="text-xl mt-8 text-start font-serif text-zinc-500">what I&apos;m reading now:</h2>
         <ul className="list-disc">
   <li className="ml-8 font-serif text-black mt-2"><i>Mastering Ethereum</i> - Andreas M.A. Antonopoulos and Gavin Wood</li>
   </ul>
