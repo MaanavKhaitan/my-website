@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import Image from 'next/image'
+import Link from 'next/link'
 import { Inter } from 'next/font/google'
 import styles from '@/styles/Home.module.css'
 
@@ -34,7 +35,7 @@ export default function Home() {
           </div>
           <div className="container">
             <img src="/ja11.jpeg" className="h-64 w-64" />
-            <h2 className="centered text-xl text-start font-serif">I love making <a href="https://caldera.xyz" className="underline">fun things</a> with friends, creating <a href="/art" className="underline">art</a>, and I&apos;m trying to <a href="/reading" className="underline">read more</a>.</h2>
+            <h2 className="centered text-xl text-start font-serif">I love making <Link href="/things" className="underline">fun things</Link> with friends, creating <Link href="/art" className="underline">art</Link>, and I&apos;m trying to <Link href="/reading" className="underline">read more</Link>.</h2>
           </div>
           <div className="container">
             <img src="/ja8.jpeg" className="h-64 w-64" />
