@@ -23,11 +23,11 @@ export default function Home() {
           </div>
           <div className="container">
             <img src="/ja2.jpeg" className="h-64 w-64" />
-            <h2 className="centered text-xl text-start font-serif">{"I'm studying computer science and business at Berkeley."}</h2>
+            <h2 className="centered text-xl text-start font-serif">I&apos;m currently working on app-specific blockchains at <a target="_blank" href="https://caldera.xyz" className="underline">Caldera</a>.</h2>
           </div>
           <div className="container">
             <img src="/ja6.jpeg" className="h-64 w-64" />
-            <h2 className="centered text-xl text-start font-serif">I&apos;m currently working on app-specific blockchains at <a target="_blank" href="https://caldera.xyz" className="underline">Caldera.</a></h2>
+            <h2 className="centered text-xl text-start font-serif">{"I'm studying computer science and business at Berkeley."}</h2>
           </div>
           <div className="container">
             <img src="/ja10.webp" className="h-64 w-64" />
