@@ -37,6 +37,7 @@ export default function Reading() {
   <li className="ml-8 font-serif text-black mt-2"><i>Freakonomics</i> - Steven D. Levitt and Stephen J. Dubner</li>
   <li className="ml-8 font-serif text-black mt-2">hate to say it but - <i>Cracking the Coding Interview</i> - Gayle McDowell</li>
   </ul>
+  <h2 className="text-md mt-12 text-start font-serif text-zinc-500">find me on <a target="_blank" href="https://curius.app/maanav-khaitan" className="underline">curius</a></h2>
         </div>
         </div>
       </div>
