@@ -34,7 +34,7 @@ export default function Home() {
           </div>
           <div className="container">
             <img src="/ja11.jpeg" className="h-64 w-64" />
-            <h2 className="centered text-xl text-start font-serif">I love making <a target="_blank" href="https://caldera.xyz" className="underline">fun things</a> with friends, creating <a target="_blank" href="https://caldera.xyz" className="underline">art</a>, and I&apos;m trying to <a target="_blank" href="/reading" className="underline">read more</a>.</h2>
+            <h2 className="centered text-xl text-start font-serif">I love making <a href="https://caldera.xyz" className="underline">fun things</a> with friends, creating <a href="/art" className="underline">art</a>, and I&apos;m trying to <a href="/reading" className="underline">read more</a>.</h2>
           </div>
           <div className="container">
             <img src="/ja8.jpeg" className="h-64 w-64" />
