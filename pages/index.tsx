@@ -27,7 +27,7 @@ export default function Home() {
           </div>
           <div className="container">
             <img src="/ja6.jpeg" className="h-64 w-64" />
-            <h2 className="centered text-xl text-start font-serif">I'm currently helping build a better terminal at <a target="_blank" href="https://warp.dev" className="underline">Warp</a>.</h2>
+            <h2 className="centered text-xl text-start font-serif">I&apos;m currently helping build a better terminal at <a target="_blank" href="https://warp.dev" className="underline">Warp</a>.</h2>
           </div>
           <div className="container">
             <img src="/ja10.webp" className="h-64 w-64" />
