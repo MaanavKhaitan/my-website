@@ -5,11 +5,14 @@ import styles from '@/styles/Home.module.css'
 import ImageGallery from 'react-image-gallery';
 
 const images = [
-    {
+  {
     original: 'https://i.imgur.com/uXmwFSo.png',
     thumbnail: 'https://i.imgur.com/uXmwFSo.png',
   },
-
+  {
+    original: 'https://i.imgur.com/yEPsFlO.png',
+    thumbnail: 'https://i.imgur.com/yEPsFlO.png',
+  },
   {
     original: 'https://i.imgur.com/MmFEaKU.png',
     thumbnail: 'https://i.imgur.com/MmFEaKU.png',
