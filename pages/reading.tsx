@@ -24,12 +24,12 @@ export default function Reading() {
         <h2 className="text-xl mt-8 text-start font-serif text-zinc-500">what I&apos;m reading now:</h2>
         <ul className="list-disc">
   <li className="ml-8 font-serif text-black mt-2"><i>Mastering Ethereum</i> - Andreas M.A. Antonopoulos and Gavin Wood</li>
-  <li className="ml-8 font-serif text-black mt-2"><i>The Rust Programming Language</i> - Steve Klabnik and Carol Nichols</li>
   </ul>
   <h2 className="text-xl mt-12 text-start font-serif text-zinc-500">books that have changed the way I think:</h2>
   <ul className="list-disc">
-    <li className="ml-8 font-serif text-black mt-2"><i>Design as Art</i> - Bruno Munari</li>
+  <li className="ml-8 font-serif text-black mt-2"><i>Design as Art</i> - Bruno Munari</li>
   <li className="ml-8 font-serif text-black mt-2"><i>Finite and Infinite Games</i> - James P. Carse</li>
+  <li className="ml-8 font-serif text-black mt-2"><i>The Rust Programming Language</i> - Steve Klabnik and Carol Nichols</li>
   <li className="ml-8 font-serif text-black mt-2"><i>Doglapan</i> - Ashneer Grover</li>
   <li className="ml-8 font-serif text-black mt-2"><i>Structure and Interpretation of Computer Programs</i> - Harold Abelson et al.</li>
   <li className="ml-8 font-serif text-black mt-2"><i>Things Fall Apart</i> - Chinua Achebe</li>
