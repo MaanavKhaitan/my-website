@@ -27,19 +27,19 @@ export default function Home() {
           </div>
           <div className="container">
             <img src="/ja6.jpeg" className="h-64 w-64" />
-            <h2 className="centered text-xl text-start font-serif">I&apos;m currently helping build a better terminal at <a target="_blank" href="https://warp.dev" className="underline">Warp</a>.</h2>
+            <h2 className="centered text-xl text-start font-serif">I previously worked on a new terminal at <a target="_blank" href="https://warp.dev" className="underline">Warp</a> and app-specific blockchains at <a target="_blank" href="https://caldera.xyz" className="underline">Caldera</a>.</h2>
           </div>
           <div className="container">
             <img src="/ja10.webp" className="h-64 w-64" />
-            <h2 className="centered text-xl text-start font-serif">I previously worked on app-specific blockchains at <a target="_blank" href="https://caldera.xyz" className="underline">Caldera</a>.</h2>
-          </div>
-          <div className="container">
-            <img src="/ja11.jpeg" className="h-64 w-64" />
             <h2 className="centered text-xl text-start font-serif">I write some of my thoughts <a target="_blank" href="https://maanav.writeas.com/" className="underline">here</a>, and I try to be funny on <a target="_blank" href="https://twitter.com/MaanavKhaitan" className="underline">Twitter</a>.</h2>
           </div>
           <div className="container">
-            <img src="/ja8.jpeg" className="h-64 w-64" />
+            <img src="/ja11.jpeg" className="h-64 w-64" />
             <h2 className="centered text-xl text-start font-serif">I love making <Link href="/things" className="underline">fun things</Link> with friends, creating <Link href="/art" className="underline">art</Link>, and I&apos;m trying to <Link href="/reading" className="underline">read more</Link>.</h2>
+          </div>
+          <div className="container">
+            <img src="/ja8.jpeg" className="h-64 w-64" />
+            <h2 className="centered text-xl text-start font-serif">maanav@berkeley.edu</h2>
           </div>
           </div>
       </main>
