@@ -24,6 +24,8 @@ export default function Reading() {
         <h2 className="text-md text-start font-serif mt-4">there&apos;s nothing more fun than working with friends to make an idea come to life</h2>
         <a target="_blank" href="https://github.com/MaanavKhaitan" ><h2 className="text-md text-start font-serif text-zinc-500 mt-4 ml-2 underline">[github]</h2></a>
         </div>
+        <h2 className="text-xl mt-8 text-start font-serif text-zinc-700"><a target="_blank" href="https://github.com/MaanavKhaitan/weld" className="underline">Weld</a></h2>
+        <h2 className="text-lg mt-1 text-start font-serif text-zinc-500">Testnet framework integrating Narwhal/Bullshark's high-throughput consensus with EVM execution powered by Foundry's Anvil.</h2>
         <h2 className="text-xl mt-8 text-start font-serif text-zinc-700"><a target="_blank" href="https://ethglobal.com/showcase/traverse-5xy8p" className="underline">Traverse</a></h2>
         <h2 className="text-lg mt-1 text-start font-serif text-zinc-500">Automatically generate security reports for EVM smart contracts, using static analysis.</h2>
         <h2 className="text-xl mt-8 text-start font-serif text-zinc-700"><a target="_blank" href="https://www.covidplasma.in/" className="underline">Covidplasma.in</a></h2>
