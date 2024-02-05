@@ -23,12 +23,13 @@ export default function Reading() {
         <h2 className="text-md text-start font-serif mt-4">reading is fun, but gotta keep myself accountable</h2>
         <h2 className="text-xl mt-8 text-start font-serif text-zinc-500">what I&apos;m reading now:</h2>
         <ul className="list-disc">
-  <li className="ml-8 font-serif text-black mt-2"><i>Finite and Infinite Games</i> - James P. Carse</li>
+  <li className="ml-8 font-serif text-black mt-2"><i>The Prince</i> - Niccolo Machiavelli</li>
   </ul>
   <h2 className="text-xl mt-12 text-start font-serif text-zinc-500">books that have changed the way I think:</h2>
   <ul className="list-disc">
   <li className="ml-8 font-serif text-black mt-2"><i>Design as Art</i> - Bruno Munari</li>
   <li className="ml-8 font-serif text-black mt-2"><i>Mastering Ethereum</i> - Andreas M.A. Antonopoulos and Gavin Wood</li>
+  <li className="ml-8 font-serif text-black mt-2"><i>My Gita</i> - Devdutt Pattanaik</li>
   <li className="ml-8 font-serif text-black mt-2"><i>The Rust Programming Language</i> - Steve Klabnik and Carol Nichols</li>
   <li className="ml-8 font-serif text-black mt-2"><i>Doglapan</i> - Ashneer Grover</li>
   <li className="ml-8 font-serif text-black mt-2"><i>Structure and Interpretation of Computer Programs</i> - Harold Abelson et al.</li>
@@ -37,7 +38,7 @@ export default function Reading() {
   <li className="ml-8 font-serif text-black mt-2"><i>The Alchemist</i> - Paulo Coelho</li>
   <li className="ml-8 font-serif text-black mt-2"><i>The Big Short</i> - Michael Lewis</li>
   <li className="ml-8 font-serif text-black mt-2"><i>Tamas</i> - Bhisham Sahni</li>
-  <li className="ml-8 font-serif text-black mt-2"><i>Freakonomics</i> - Steven D. Levitt and Stephen J. Dubner</li>
+  <li className="ml-8 font-serif text-black mt-2"><i>Finite and Infinite Games</i> - James P. Carse</li>
   <li className="ml-8 font-serif text-black mt-2">hate to say it but - <i>Cracking the Coding Interview</i> - Gayle McDowell</li>
   </ul>
   <h2 className="text-md mt-12 text-start font-serif text-zinc-500">find me on <a target="_blank" href="https://curius.app/maanav-khaitan" className="underline">curius</a></h2>
