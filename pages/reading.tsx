@@ -37,7 +37,6 @@ export default function Reading() {
   <li className="ml-8 font-serif text-black mt-2"><i>Things Fall Apart</i> - Chinua Achebe</li>
   <li className="ml-8 font-serif text-black mt-2"><i>Human Interface Guidelines</i> - Apple</li>
   <li className="ml-8 font-serif text-black mt-2"><i>The Alchemist</i> - Paulo Coelho</li>
-  <li className="ml-8 font-serif text-black mt-2"><i>The Big Short</i> - Michael Lewis</li>
   <li className="ml-8 font-serif text-black mt-2"><i>Tamas</i> - Bhisham Sahni</li>
   <li className="ml-8 font-serif text-black mt-2"><i>Finite and Infinite Games</i> - James P. Carse</li>
   <li className="ml-8 font-serif text-black mt-2">hate to say it but - <i>Cracking the Coding Interview</i> - Gayle McDowell</li>
