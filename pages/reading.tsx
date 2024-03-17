@@ -31,7 +31,7 @@ export default function Reading() {
   <li className="ml-8 font-serif text-black mt-2"><i>Mastering Ethereum</i> - Andreas M.A. Antonopoulos and Gavin Wood</li>
   <li className="ml-8 font-serif text-black mt-2"><i>My Gita</i> - Devdutt Pattanaik</li>
   <li className="ml-8 font-serif text-black mt-2"><i>The Rust Programming Language</i> - Steve Klabnik and Carol Nichols</li>
-  <li className="ml-8 font-serif text-black mt-2"><i>The Price</i> - Niccolo Machiavelli</li>
+  <li className="ml-8 font-serif text-black mt-2"><i>The Prince</i> - Niccolo Machiavelli</li>
   <li className="ml-8 font-serif text-black mt-2"><i>Doglapan</i> - Ashneer Grover</li>
   <li className="ml-8 font-serif text-black mt-2"><i>Structure and Interpretation of Computer Programs</i> - Harold Abelson et al.</li>
   <li className="ml-8 font-serif text-black mt-2"><i>Things Fall Apart</i> - Chinua Achebe</li>
