@@ -23,7 +23,7 @@ export default function Home() {
           </div>
           <div className="container">
             <img src="/ja2.jpeg" className="h-64 w-64" />
-            <h2 className="centered text-xl text-start font-serif">I&apos;m currently working on <a target="_blank" href="https://ethosstake.com" className="underline">Ethos</a>.</h2>
+            <h2 className="centered text-xl text-start font-serif">I&apos;m currently working on <a target="_blank" href="https://x.com/Infinity_VM" className="underline">InfinityVM</a>.</h2>
           </div>
           <div className="container">
             <img src="/ja6.jpeg" className="h-64 w-64" />
