@@ -14,12 +14,20 @@ const images = [
     thumbnail: 'https://i.imgur.com/yEPsFlO.png',
   },
   {
+    original: 'https://i.imgur.com/OKaA4IS.png',
+    thumbnail: 'https://i.imgur.com/OKaA4IS.png',
+  },
+  {
     original: 'https://i.imgur.com/gG7DEU0.png',
     thumbnail: 'https://i.imgur.com/gG7DEU0.png',
   },
   {
     original: 'https://i.imgur.com/WJYy6Ou.png',
     thumbnail: 'https://i.imgur.com/WJYy6Ou.png',
+  },
+  {
+    original: 'https://i.imgur.com/iZcvV5B.png',
+    thumbnail: 'https://i.imgur.com/iZcvV5B.png',
   },
   {
     original: 'https://i.imgur.com/VQGl0FK.png',
