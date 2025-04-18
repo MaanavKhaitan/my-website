@@ -22,6 +22,10 @@ const images = [
     thumbnail: 'https://i.imgur.com/gG7DEU0.png',
   },
   {
+    original: 'https://i.imgur.com/yiBF7aS.jpeg',
+    thumbnail: 'https://i.imgur.com/yiBF7aS.jpeg',
+  },
+  {
     original: 'https://i.imgur.com/WJYy6Ou.png',
     thumbnail: 'https://i.imgur.com/WJYy6Ou.png',
   },
