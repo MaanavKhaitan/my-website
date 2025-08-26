@@ -24,7 +24,7 @@ export default function Reading() {
   <li className="ml-8 font-serif text-black mt-2"><a href="https://seqholdings.com/" className="underline" target="_blank" rel="noopener noreferrer">Sequence Holdings</a></li>
   <li className="ml-8 font-serif text-black mt-2"><a href="https://sorellalabs.xyz/" className="underline" target="_blank" rel="noopener noreferrer">Sorella Labs</a></li>
   <li className="ml-8 font-serif text-black mt-2">Applied Compute</li>
-  <li className="ml-8 font-serif text-black mt-2"><a href="https://www.endeavor.ai/" className="underline" target="_blank" rel="noopener noreferrer">Endeavor AI</a></li>
+  <li className="ml-8 font-serif text-black mt-2"><a href="https://www.endeavor.ai/" className="underline" target="_blank" rel="noopener noreferrer">Endeavor</a></li>
   <li className="ml-8 font-serif text-black mt-2">Singularity Defense</li>
   <li className="ml-8 font-serif text-black mt-2"><a href="https://www.forbes.com/sites/charliefink/2025/08/20/vigil-labs-ai-raises-57-million-to-build-bionic-traders/" className="underline" target="_blank" rel="noopener noreferrer">Vigil</a></li>
   </ul>
