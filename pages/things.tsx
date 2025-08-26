@@ -19,9 +19,9 @@ export default function Reading() {
         <div className="flex flex-col sm:flex-row gap-12 my-36 md:mx-36 mx-8">
         <img src="/ja4.jpeg" className="h-64 w-64" />
         <div>
-        <h2 className="text-5xl text-start font-serif">Things I&apos;ve Built</h2>
+        <h2 className="text-5xl text-start font-serif text-black">Things I&apos;ve Built</h2>
         <div className="flex flex-row">
-        <h2 className="text-md text-start font-serif mt-4">there&apos;s nothing more fun than working with friends to make an idea come to life</h2>
+        <h2 className="text-md text-start font-serif mt-4 text-black">there&apos;s nothing more fun than working with friends to make an idea come to life</h2>
         <a target="_blank" href="https://github.com/MaanavKhaitan" ><h2 className="text-md text-start font-serif text-zinc-500 mt-4 ml-2 underline">[github]</h2></a>
         </div>
         <h2 className="text-xl mt-8 text-start font-serif text-zinc-700"><a target="_blank" href="https://github.com/MaanavKhaitan/weld" className="underline">Weld</a></h2>

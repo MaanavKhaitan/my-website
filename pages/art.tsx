@@ -75,8 +75,8 @@ export default function Art() {
         <div className="flex flex-col sm:flex-row gap-12 my-36 ml-8 sm:ml-36">
         <img src="/ja8.jpeg" className="h-64 w-64" />
         <div>
-        <h2 className="text-5xl text-start font-serif">My Art</h2>
-        <h2 className="text-md text-start font-serif mt-4">art is fun</h2>
+        <h2 className="text-5xl text-start font-serif text-black">My Art</h2>
+        <h2 className="text-md text-start font-serif mt-4 text-black">art is fun</h2>
         <div className="mt-8 sm:mr-24 w-screen sm:w-3/5">
         <ImageGallery items={images} />
         </div>
