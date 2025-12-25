@@ -23,7 +23,7 @@ export default function Home() {
           </div>
           <div className="container">
             <img src="/ja2.jpeg" className="h-64 w-64" />
-            <h2 className="centered text-xl text-start font-serif">I&apos;m currently working on building high-performance systems and new markets in crypto.</h2>
+            <h2 className="centered text-xl text-start font-serif">I&apos;m currently working on high-performance systems and new markets in crypto.</h2>
           </div>
           <div className="container">
             <img src="/ja6.jpeg" className="h-64 w-64" />
