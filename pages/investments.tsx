@@ -21,13 +21,13 @@ export default function Reading() {
         <div>
         <h2 className="text-5xl text-start font-serif text-black">Investments</h2>
         <ul className="list-disc mt-8">
+  <li className="ml-8 font-serif text-black mt-2"><a href="https://appliedcompute.com/" className="underline" target="_blank" rel="noopener noreferrer">Applied Compute</a></li>
   <li className="ml-8 font-serif text-black mt-2"><a href="https://seqholdings.com/" className="underline" target="_blank" rel="noopener noreferrer">Sequence Holdings</a></li>
   <li className="ml-8 font-serif text-black mt-2"><a href="https://sorellalabs.xyz/" className="underline" target="_blank" rel="noopener noreferrer">Sorella Labs</a></li>
-  <li className="ml-8 font-serif text-black mt-2"><a href="https://appliedcompute.com/" className="underline" target="_blank" rel="noopener noreferrer">Applied Compute</a></li>
+  <li className="ml-8 font-serif text-black mt-2"><a href="https://robostrategy.co/" className="underline" target="_blank" rel="noopener noreferrer">Robostrategy</a></li>
   <li className="ml-8 font-serif text-black mt-2"><a href="https://www.endeavor.ai/" className="underline" target="_blank" rel="noopener noreferrer">Endeavor</a></li>
   <li className="ml-8 font-serif text-black mt-2"><a href="https://ats.rippling.com/singularity-defense/jobs" className="underline" target="_blank" rel="noopener noreferrer">Singularity Defense</a></li>
   <li className="ml-8 font-serif text-black mt-2"><a href="https://www.forbes.com/sites/charliefink/2025/08/20/vigil-labs-ai-raises-57-million-to-build-bionic-traders/" className="underline" target="_blank" rel="noopener noreferrer">Vigil</a></li>
-  <li className="ml-8 font-serif text-black mt-2"><a href="https://robostrategy.co/" className="underline" target="_blank" rel="noopener noreferrer">Robostrategy</a></li>
   </ul>
         </div>
         </div>
