@@ -28,6 +28,7 @@ export default function Reading() {
   <li className="ml-8 font-serif text-black mt-2"><a href="https://www.endeavor.ai/" className="underline" target="_blank" rel="noopener noreferrer">Endeavor</a></li>
   <li className="ml-8 font-serif text-black mt-2"><a href="https://ats.rippling.com/singularity-defense/jobs" className="underline" target="_blank" rel="noopener noreferrer">Singularity Defense</a></li>
   <li className="ml-8 font-serif text-black mt-2"><a href="https://www.forbes.com/sites/charliefink/2025/08/20/vigil-labs-ai-raises-57-million-to-build-bionic-traders/" className="underline" target="_blank" rel="noopener noreferrer">Vigil</a></li>
+  <li className="ml-8 font-serif text-black mt-2"><a href="https://www.tomo.ai/" className="underline" target="_blank" rel="noopener noreferrer">Tomo</a></li>
   </ul>
         </div>
         </div>
