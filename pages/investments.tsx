@@ -30,6 +30,7 @@ export default function Reading() {
   <li className="ml-8 font-serif text-black mt-2"><a href="https://www.forbes.com/sites/charliefink/2025/08/20/vigil-labs-ai-raises-57-million-to-build-bionic-traders/" className="underline" target="_blank" rel="noopener noreferrer">Vigil</a></li>
   <li className="ml-8 font-serif text-black mt-2"><a href="https://www.tomo.ai/" className="underline" target="_blank" rel="noopener noreferrer">Tomo</a></li>
   <li className="ml-8 font-serif text-black mt-2">Treehouse</li>
+  <li className="ml-8 font-serif text-black mt-2">Arca</li>
   </ul>
         </div>
         </div>
