@@ -23,7 +23,7 @@ export default function Home() {
           </div>
           <div className="container">
             <img src="/ja2.jpeg" className="h-64 w-64" />
-            <h2 className="centered text-xl text-start font-serif">I&apos;m working on high-performance systems and new markets in crypto.</h2>
+            <h2 className="centered text-xl text-start font-serif">I&apos;m working on technology for capital markets.</h2>
           </div>
           <div className="container">
             <img src="/ja6.jpeg" className="h-64 w-64" />
@@ -31,7 +31,7 @@ export default function Home() {
           </div>
           <div className="container">
             <img src="/ja10.webp" className="h-64 w-64" />
-            <h2 className="centered text-xl text-start font-serif">I write some of my thoughts <a target="_blank" href="https://maanav.writeas.com/" className="underline">here</a>, and I try to be funny on <a target="_blank" href="https://twitter.com/maanav" className="underline">Twitter</a>.</h2>
+            <h2 className="centered text-xl text-start font-serif">I write some of my thoughts <a target="_blank" href="https://maanav.writeas.com/" className="underline">here</a>, and <a target="_blank" href="https://twitter.com/maanav" className="underline">here</a>.</h2>
           </div>
           <div className="container">
             <img src="/ja11.jpeg" className="h-64 w-64" />
