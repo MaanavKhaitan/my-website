@@ -31,11 +31,11 @@ export default function Home() {
           </div>
           <div className="container">
             <img src="/ja10.webp" className="h-64 w-64" />
-            <h2 className="centered text-xl text-start font-serif">I write some of my thoughts <a target="_blank" href="https://maanav.writeas.com/" className="underline">here</a>, and <a target="_blank" href="https://twitter.com/maanav" className="underline">here</a>.</h2>
+            <h2 className="centered text-xl text-start font-serif">I write some of my thoughts <Link href="/writing" className="underline">here</Link>, and <a target="_blank" href="https://twitter.com/maanav" className="underline">here</a>.</h2>
           </div>
           <div className="container">
             <img src="/ja11.jpeg" className="h-64 w-64" />
-            <h2 className="centered text-xl text-start font-serif">I love making <Link href="/things" className="underline">fun things</Link> with friends, creating <Link href="/art" className="underline">art</Link>, and I&apos;m trying to <Link href="/reading" className="underline">read more</Link>.</h2>
+            <h2 className="centered text-xl text-start font-serif">I enjoy making <Link href="/things" className="underline">fun things</Link>, creating <Link href="/art" className="underline">art</Link>, and I&apos;m trying to <Link href="/reading" className="underline">read more</Link>.</h2>
           </div>
           <div className="container">
             <img src="/ja8.jpeg" className="h-64 w-64" />
