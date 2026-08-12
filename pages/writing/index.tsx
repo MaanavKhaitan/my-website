@@ -14,7 +14,7 @@ export default function Writing() {
       <main className="bg-white h-full flex items-center justify-center">
         <div className="flex flex-col min-h-screen main-body">
           <div className="flex flex-col sm:flex-row gap-12 my-36 mx-8">
-            <img src="/ja10.webp" className="h-64 w-64" />
+            <img src="/ja11.jpeg" className="h-64 w-64" />
             <div>
               <h2 className="text-5xl text-start font-serif text-black">my writing</h2>
               <ul className="mt-12">
