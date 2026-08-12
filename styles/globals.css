@@ -125,3 +125,62 @@ a {
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
+/* Writing post body */
+.post-content {
+  font-family: ui-serif, Georgia, Cambria, 'Times New Roman', Times, serif;
+  color: #000;
+  font-size: 1.125rem;
+  line-height: 1.75;
+}
+
+.post-content p {
+  margin-top: 1.25rem;
+}
+
+.post-content a {
+  text-decoration: underline;
+}
+
+.post-content img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 2rem auto 0;
+}
+
+.post-content ul,
+.post-content ol {
+  margin-top: 1.25rem;
+  padding-left: 1.5rem;
+}
+
+.post-content ul {
+  list-style-type: disc;
+}
+
+.post-content ol {
+  list-style-type: decimal;
+}
+
+.post-content li {
+  margin-top: 0.5rem;
+}
+
+.post-content li p {
+  margin-top: 0.5rem;
+}
+
+.post-content blockquote {
+  margin-top: 1.25rem;
+  padding-left: 1rem;
+  border-left: 2px solid #d4d4d8;
+  color: #52525b;
+  font-style: italic;
+}
+
+.post-content h4 {
+  margin-top: 2rem;
+  font-size: 1.25rem;
+  font-weight: 600;
+}
