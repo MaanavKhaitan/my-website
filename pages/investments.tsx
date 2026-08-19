@@ -32,6 +32,7 @@ export default function Reading() {
   <li className="ml-8 font-serif text-black mt-2">Treehouse</li>
   <li className="ml-8 font-serif text-black mt-2">Arca</li>
   <li className="ml-8 font-serif text-black mt-2">Stochastic Processes</li>
+  <li className="ml-8 font-serif text-black mt-2">Stead</li>
   </ul>
         </div>
         </div>
