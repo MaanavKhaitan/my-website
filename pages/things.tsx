@@ -23,6 +23,8 @@ export default function Reading() {
         <div className="flex flex-row">
         <a target="_blank" href="https://github.com/MaanavKhaitan" ><h2 className="text-md text-start font-serif text-zinc-500 mt-4 ml-2 underline">[github]</h2></a>
         </div>
+        <h2 className="text-xl mt-8 text-start font-serif text-zinc-700"><a target="_blank" href="https://github.com/MaanavKhaitan/lore" className="underline">Lore</a></h2>
+        <h2 className="text-lg mt-1 text-start font-serif text-zinc-500">Deterministic guardrails to validate agent output against the rules of your world.</h2>
         <h2 className="text-xl mt-8 text-start font-serif text-zinc-700"><a target="_blank" href="https://github.com/MaanavKhaitan/behavior-judge" className="underline">behavior-judge</a></h2>
         <h2 className="text-lg mt-1 text-start font-serif text-zinc-500">Judge long-horizon agents by compiling behavior specs into deterministic + semantic rules.</h2>
         <h2 className="text-xl mt-8 text-start font-serif text-zinc-700"><a target="_blank" href="https://github.com/MaanavKhaitan/crux" className="underline">Crux</a></h2>
